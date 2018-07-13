@@ -10,7 +10,10 @@ With this tiny script you'll be able to refresh your source code on XCode when w
 
 ## Use
 
-Just copy the .sh script on the root path of your project and execute **sh ios-clean.sh** on the terminal and wait until it's done.
++ Copy the .sh script on the root path of your project
++ Close XCode 
++ Execute **sh ios-clean.sh** on the terminal and wait until it's done
++ Open your project again with XCode and it will be up to date :)
 
 ## Troubleshooting
 
